@@ -1,0 +1,2 @@
+Este repositório contém uma série de exercícios práticos para o aprendizado e prática de programação orientada a objetos (POO). Cada exercício aborda conceitos fundamentais de POO e tem o objetivo de fortalecer o entendimento desses conceitos por meio da prática.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções ou novos exercícios por meio de pull requests neste repositório.
